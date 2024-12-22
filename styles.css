@@ -1,0 +1,12 @@
+.card {
+    padding: 1rem;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+}
+
+.card h3 {
+    margin-top: 0;
+    color: #1a1a1a;
+}
